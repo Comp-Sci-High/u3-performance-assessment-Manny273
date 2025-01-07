@@ -1,3 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HARs_Oy5)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17629844&assignment_repo_type=AssignmentRepo)
-# node-template
+1. I picked this topic because I want to get extra credit for apcsa
+2.
+  A. First endpoint is "/" it basically is the home page for the api and gives a description into what I did
+  B.Second endpoint is "/Docs" it basically gives all the paths for the api and makes sure that you can navigate it accordingly
+  C.Third endpoint is /unit/:unitNum it basically gives the unit name the vocab, and some questions that you can use to practice with a dynamic parameter of unitNum with can be used for the units 1 through 8
+  D. Fourth endpoint is unit/:unitNum/answers it gives the answer to the questions that were in the unit 
+  E. Fifth endpoint is /unit/vocab/:unitNum it gives the the definiton to the vocab from the unit using a query parameter
+
+3.My experience was alright it was decently fun and it became a nice side project
